@@ -1,4 +1,4 @@
-# R-Ladies-Cotonou 🇧🇯🌍. 
+# R-Ladies-Cotonou 🇧🇯🌍 
 
 Toutes les présentations, tutoriels, flyers, logos et autres talks créés au cours de meetups de R-Ladies Cotonou. ☺️ 
 
