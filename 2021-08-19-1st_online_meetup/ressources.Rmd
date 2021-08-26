@@ -1,0 +1,153 @@
+---
+title: "😍 Ressources **gratuites** de R-Ladies 😎 Comment y accéder?🤔"
+subtitle: "⚔<br/>R-Ladies Cotonou"
+author: "Nadejda B. Sero"
+output:
+  xaringan::moon_reader:
+    css: ["default", "rladies", "rladies-fonts"]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+    includes:
+      in_header: header.html
+---
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+class: inverse, center, middle
+
+# Pour contacter R-Ladies Cotonou 🧐
+
+<a href="mailto:cotonou@rladies.org"><i class="fa fa-paper-plane fa-fw"></i>&nbsp; cotonou@rladies.org</a><br>
+
+<a href="http://twitter.com/RLadiesCtn"><i class="fa fa-twitter fa-fw"></i>&nbsp; @RLadiesCtn</a><br>
+
+<a href="https://github.com/rladies/meetup-presentations_cotonou"><i class="fa fa-github fa-fw"></i>&nbsp; Présentations de R-Ladies Cotonou</a><br>
+
+---
+
+background-image: url("suivez-moi.gif")
+background-position: 50% 90%
+background-size: 70%
+class: left
+
+# Les ressources GRATUITES, c'est important!
+
+Avoir accès à du code, des tutoriels et de l'aide rend la vie plus facile lorsqu'on travaille dans R. Oui ou Oui? 😏
+
+>La bonne nouvelle? Toutes les présentations faites par les R-Ladies sont GRATUITES et TELECHARGEABLES!
+
+---
+
+# 1er arrêt: Le compte GitHub de R-Ladies
+
+[GitHub](https://github.com/rladies) est service web qui permet d'héberger, gérer, partager des projets, logiciels, codes... Il est aussi un lieu de travail et de collaboration pour les équipes et bien plus encore [(lire plus ici)](fr.m.wikipedia.org).  
+
+  
+En tant qu'organisation, R-Ladies Global possède un [compte GitHub](https://github.com/rladies) où  tous les groupes locaux stockent leurs présentations et autres matériels utiles.  
+  
+
+Ainsi, vous pouvez retrouver toutes les présentations passées, présentes et futures de R-Ladies Cotonou en cliquant sur 👉 [**Ressources!**](https://github.com/rladies/meetup-presentations_cotonou)   
+  
+Facile, n'est-ce pas? Faites vous plaisir et enregistrez ce dont vous avez besoin. 😉
+
+Visitez également les repositoires des autres groupes R-Ladies! 
+
+
+
+---
+# 2nd arrêt: Le Slack de la communauté R-Ladies
+
+[Slack](https://slack.com/intl/fr-bj/) est un outil de travail pour les équipes/organisations qui rend les échanges plus rapides, faciles et sécurisés. La communauté de R-Ladies possède un compte Slack où tous les intéressés viennent échanger sur différents sujets à travers différentes chaînes disponibles.  
+
+🤨 C'est le moment où vous vous dites *Oui Nad, c'est bien mais l'anglais n'est pas ma tasse.* Pas de soucis! *Il y a des chaînes où vous pouvez aisément vous exprimer en Français.* 😎  
+
+Ainsi, vous pouvez dans ce Slack  👇 
++ obtenir de l'aide si vous êtes bloqués sur un code R, 
++ avoir vent des opportunités de conférences, formations et emplois dans le monde entier,
++ vous faire de nouvelles connaissances en utilisation de R et aussi de nouveaux amis...
+
+Allez découvrir le reste par vous-même!😏 
+
+---
+# Alors comment rejoindre le Slack de la communauté R-Ladies ?
+
+Facile comme Bonjour. Cliquez juste sur ce lien *https://rladies-community-slack.herokuapp.com/* et suivez les instructions.  
+
+Si vous rencontrez une quelconque difficulté envoyez moi un email à l'adresse *baro@rladies.org* et je vous aiderai autant que possible.  
+
+Vous avez juste besoin d'un email. L'application Slack est gratuitement disponible pour Windows, Macbook, Android et Apple. 
+
+Rejoignez ce Slack et invitez d'autres R-Ladies aussi! 
+
+```{r, echo=FALSE, out.width='30%', fig.cap='', fig.align='right'}
+knitr::include_graphics('wink1.gif')
+```
+
+
+---
+
+# 3eme arrêt: La chaîne YouTube de R-Ladies 
+
+Les vidéos des présentations de certains groupes de R-Ladies y vivent et n'attendent que votre visite 👉 *https://www.youtube.com/c/RLadiesGlobal*.  
+ 
+
+R-Ladies Cotonou n'a pas encore de vidéos en ligne mais vous pouvez profiter des autres groupes R-Ladies.
+
+Si vous êtes une organisatrice d'un groupe R-Ladies et désirez charger une vidéo, suivez le lien *https://guide.rladies.org/organization/events/youtube/*.
+
+Souscrivez à la chaîne pour ne rien rater! 
+
+```{r, echo=FALSE, out.width='30%', fig.cap='', fig.align='center'}
+knitr::include_graphics('yt2.gif')
+```
+
+---
+class: inverse
+
+# 4eme arrêt: Le compte Twitter de R-Ladies et de R-Ladies Cotonou
+
+Eh oui! Twitter! C'est le bon moment pour créer un compte si vous n'en avez pas.   
+
+R-Ladies Global y partage des infos utiles depuis les meetups de ses groupes, opportunités pour R-Ladies jusqu'aux changements de son organisation. Elle aide ainsi les petits groupes comme R-Ladies Cotonou à avoir plus de visibilité en partageant nos posts.   
+
+Le compte Twitter de R-Ladies Global vit ici 👉 *https://twitter.com/RLadiesGlobal*.  
+
+Et le twitter de R-Ladies Cotonou habite ici 👉 *https://twitter.com/RLadiesCtn*.
+
+N'oubliez pas de nous suivre!
+```{r, echo=FALSE, out.width='30%', fig.cap='', fig.align='center'}
+knitr::include_graphics('twitter1.gif')
+```
+
+
+---
+# Bonus: Le guide organisationnel de R-Ladies
+
+Etes-vous une organisatrice de R-Ladies ou voulez-vous créer votre propre groupe R-Ladies ?
+
+Si oui, Félicitations!🎉🎉🎉     
+
+Puis, vous trouverez tout ce dont vous avez besoin dans ce guide extraordinaire sur le lien **https://guide.rladies.org/**.
+
+Alors, elle n'est pas facile la vie avec R-Ladies? 🤭  
+
+```{r, echo=FALSE, out.width='30%',out.height='50%', fig.cap='Vive R-Ladies!', fig.align='right'}
+knitr::include_graphics('dancing_lisa_simpson.gif')
+```
+
+---
+
+background-image: url("clap.gif")
+background-position: 80% 90%
+background-size: 90%
+<!-- class: left, inverse -->
+class: left
+# Bravo pour avoir fini ce tutoriel!
+
+# Merci de votre aimable attention 😊
+
+
+

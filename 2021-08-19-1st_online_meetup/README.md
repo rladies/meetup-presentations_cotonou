@@ -1,4 +1,7 @@
-# 1st Meetup en ligne de R-Ladies Cotonou 🥳
+# Online meetup without zoom
 
-La vidéo de la rencontre zoom peut être visualisée en utilisant ce lien 👉🏾 https://tinyurl.com/petitFilmRLC
+Testing how to have an online meetup without using zoom, but using a whatsapp group instead.  
+
+The presentation is about how to use the ressources provided by R-Ladies.
+
 
